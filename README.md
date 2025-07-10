@@ -39,16 +39,16 @@ Luồng xử lý của chatbot được thực hiện theo các bước sau:
 ```mermaid
 graph TD
     A["Bắt đầu"] --> B{"Cung cấp URL"};
-    B --> C["1. Selenium: Tải nội dung trang web"];
-    C --> D["2. BeautifulSoup: Bóc tách & cấu trúc hóa dữ liệu"];
-    D --> E["3. Lưu vào file JSON (Cơ sở tri thức)"];
-    E --> F["4. Scikit-learn: Vector hóa cơ sở tri thức bằng TF-IDF"];
+    B --> C["Selenium: Tải nội dung trang web"];
+    C --> D["BeautifulSoup: Bóc tách & cấu trúc hóa dữ liệu"];
+    D --> E["Lưu vào file JSON (Cơ sở tri thức)"];
+    E --> F["Scikit-learn: Vector hóa cơ sở tri thức bằng TF-IDF"];
     F --> G{"Người dùng nhập câu hỏi"};
-    G --> H["5. Googletrans: Nhận diện ngôn ngữ & dịch sang tiếng Anh"];
-    H --> I["6. spaCy: Tiền xử lý câu hỏi"];
-    I --> J["7. Scikit-learn: Tính Cosine Similarity giữa câu hỏi và cơ sở tri thức"];
-    J --> K["8. Tìm ra câu trả lời phù hợp nhất"];
-    K --> L["9. Googletrans: Dịch câu trả lời về ngôn ngữ gốc"];
+    G --> H["Googletrans: Nhận diện ngôn ngữ & dịch sang tiếng Anh"];
+    H --> I["spaCy: Tiền xử lý câu hỏi"];
+    I --> J["Scikit-learn: Tính Cosine Similarity"];
+    J --> K["Tìm ra câu trả lời phù hợp nhất"];
+    K --> L["Googletrans: Dịch câu trả lời về ngôn ngữ gốc"];
     L --> M{"Hiển thị câu trả lời"};
     M --> G;
 ```
