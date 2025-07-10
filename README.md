@@ -75,8 +75,8 @@ Làm theo các bước sau để chạy dự án trên máy của bạn.
 
 1.  **Clone repository này về máy:**
     ```bash
-    git clone https://github.com/[USERNAME]/[REPO_NAME].git
-    cd [REPO_NAME]
+    git clone https://github.com/TPhongKDL/Chatbot-Learning.git
+    cd Chatbot-Learning
     ```
 
 2.  **Tạo và kích hoạt môi trường ảo (khuyến khích):**
