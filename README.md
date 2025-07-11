@@ -101,7 +101,7 @@ Làm theo các bước sau để chạy dự án trên máy của bạn.
     ```
 
 5.  **Cấu hình đường dẫn ChromeDriver:**
-    Mở file `your_script_name.py` và thay đổi đường dẫn đến file `chromedriver.exe` bạn vừa tải về:
+    Mở file `chatbot.py` và thay đổi đường dẫn đến file `chromedriver.exe` bạn vừa tải về:
     ```python
     # Thay đổi dòng này
     service = Service('C:\\path\\to\\your\\chromedriver.exe')
@@ -111,7 +111,7 @@ Làm theo các bước sau để chạy dự án trên máy của bạn.
 
 Thực thi file Python chính để bắt đầu chatbot:
 ```bash
-python your_script_name.py
+python chatbot.py
 ```
 
 ## Cách sử dụng
@@ -138,7 +138,7 @@ Chatbot: Goodbye!
 
 ```
 .
-├── your_script_name.py          # File mã nguồn chính của chatbot
+├── chatbot.py                   # File mã nguồn chính của chatbot
 ├── privacy_policy_filtered.json # File JSON được tạo ra để lưu cơ sở tri thức
 ├── requirements.txt             # Danh sách các thư viện Python cần thiết
 └── README.md                    # File tài liệu hướng dẫn này
