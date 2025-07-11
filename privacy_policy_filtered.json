@@ -1,0 +1,96 @@
+{
+    "PRIVACY_POLICY": {},
+    "Last_updated_15_Sep_2023": {
+        "Last_updated_15_Sep_2023_Content_1": "At Presight, we are committed to protecting the privacy of our customers and visitors to our website. This Privacy Policy explains how we collect, use, and disclose information about our customers and visitors."
+    },
+    "Information_Collection_and_Use": {
+        "Information_Collection_and_Use_Content_1": "We collect several different types of information for various purposes to provide and improve our Service to you."
+    },
+    "Types_of_Data_Collected": {
+        "Types_of_Data_Collected_Content_1": "While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:",
+        "Types_of_Data_Collected_List_2": [
+            "Email address",
+            "First name and last name",
+            "Phone number",
+            "Address, State, Province, ZIP/Postal code, City",
+            "Cookies and Usage Data"
+        ],
+        "Types_of_Data_Collected_Content_3": "We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device (\"Usage Data\"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers, and other diagnostic data."
+    },
+    "Use_of_Data": {
+        "Use_of_Data_Content_1": "Presight uses the collected data for various purposes:",
+        "Use_of_Data_List_2": [
+            "To provide and maintain our Service",
+            "To notify you about changes to our Service",
+            "To allow you to participate in interactive features of our Service when you choose to do so",
+            "To provide customer support",
+            "To gather analysis or valuable information so that we can improve our Service",
+            "To monitor the usage of our Service",
+            "To detect, prevent and address technical issues"
+        ]
+    },
+    "Consent": {
+        "Consent_Content_1": "As personal information is collected, you will be asked to confirm that your information is correct prior to submitting it to Presight."
+    },
+    "Access_to_Personal_Information": {},
+    "Accessing_Your_Personal_Information": {
+        "Accessing_Your_Personal_Information_Content_1": "You have the right to access all of your personal information that we hold. Through the application, you can correct, amend, or append your personal information by logging into the application and navigating to your settings and profile."
+    },
+    "Automated_Edit_Checks": {
+        "Automated_Edit_Checks_Content_1": "Presight employs automated edit checks to ensure that data entry fields are completed properly when collecting personal information. These edit checks help maintain data integrity and accuracy. You are encouraged to provide complete and valid information to ensure the smooth processing of their personal data."
+    },
+    "Disclosure_of_Information": {
+        "Disclosure_of_Information_Content_1": "We may disclose your application data to third-party service providers who help us provide our services such as Datadog, AWS, Google Cloud and Google Workspace. We may also disclose your information in response to a legal request, such as a subpoena or court order, or to protect our rights or the rights of others."
+    },
+    "Sharing_of_Personal_Data": {
+        "Sharing_of_Personal_Data_Content_1": "Your personal data will not be subject to sharing, transfer, rental or exchange for the benefit of third parties, including AI models."
+    },
+    "Google_User_Data_and_Google_Workspace_APIs": {
+        "Google_User_Data_and_Google_Workspace_APIs_Content_1": "In all cases when users authenticate the platform to Google Workspace, the following applies:",
+        "Google_User_Data_and_Google_Workspace_APIs_List_2": [
+            "We do not retain or use Google User Data to develop, improve, or train generalized/non-personalized AI and/or ML models.",
+            "We do not use Google Workspace APIs to develop, improve, or train generalized/non-personalized AI and/or ML models.",
+            "We do not transfer Google User Data to third-party AI tools for the purpose of developing, improving, or training generalized or non-personalized AI and/or ML models."
+        ]
+    },
+    "Data_Security": {
+        "Data_Security_List_1": [
+            "All data is encrypted both in transit and at rest, using industry-standard encryption methods.",
+            "We regularly perform security audits and vulnerability assessments to ensure the safety of our platform and the data stored within it.",
+            "Our employees are trained on best practices for data security, and access to customer data is restricted on a need-to-know basis."
+        ]
+    },
+    "Data_Retention_&_Disposal": {
+        "Data_Retention_&_Disposal_Content_1": "Customer data is retained for as long as the account is in active status. Data enters an “expired” state when the account is voluntarily closed. Expired account data will be retained for 60 days. After this period, the account and related data will be removed."
+    },
+    "Quality,_Including_Data_Subjects'_Responsibilities_for_Quality": {
+        "Quality,_Including_Data_Subjects'_Responsibilities_for_Quality_List_1": [
+            "We are committed to maintaining the quality and accuracy of the personal information we collect and process.",
+            "We rely on data subjects to provide accurate and up-to-date information.",
+            "Data subjects have the responsibility to inform us of any changes or inaccuracies in their personal data.",
+            "If you believe that any information we hold about you is inaccurate, incomplete, or outdated, please contact us promptly to rectify the information."
+        ]
+    },
+    "Monitoring_and_Enforcement": {
+        "Monitoring_and_Enforcement_List_1": [
+            "We regularly monitor its data processing activities to ensure compliance with this privacy policy and applicable data protection laws.",
+            "In the event of a data breach or any unauthorized access to your personal information, we will notify you and the appropriate authorities as required by law.",
+            "We committed to cooperating with data protection authorities and complying with their advice and decisions regarding data protection and privacy matters."
+        ]
+    },
+    "Cookies": {
+        "Cookies_Content_1": "We use cookies to enhance your experience on our website. You can control the use of cookies through your web browser settings."
+    },
+    "Third-Party_Websites": {
+        "Third-Party_Websites_Content_1": "Our website may contain links to third-party websites. We are not responsible for the privacy practices or content of those websites."
+    },
+    "Changes_to_Privacy_Policy": {
+        "Changes_to_Privacy_Policy_Content_1": "We may update this Privacy Policy from time to time. The updated Privacy Policy will be posted on our website."
+    },
+    "Contact_Us": {
+        "Contact_Us_Content_1": "If you have any questions about this Privacy Policy, please contact us through the customer portal or by email atpresight@presight.io."
+    },
+    "Purposeful_Use_Only": {
+        "Purposeful_Use_Only_Content_1": "We commit to only use personal information for the purposes identified in the entity's privacy policy."
+    }
+}
