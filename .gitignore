@@ -1,0 +1,39 @@
+# Môi trường ảo của Python
+# Không bao giờ đưa các thư viện đã cài đặt lên Git
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# Files cache và file đã biên dịch của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Tệp cấu hình của các IDE và trình soạn thảo
+# Để tránh xung đột cài đặt cá nhân
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Tệp do hệ điều hành tạo ra
+.DS_Store
+Thumbs.db
+
+# Tệp log và tệp dữ liệu tạm thời
+*.log
+*.tmp
+*.swp
+
+# Tệp chứa thông tin nhạy cảm (quan trọng!)
+.env
+*.env
+secrets.ini
+
+# Tệp dữ liệu được tạo ra (tùy chọn)
+# Nếu bạn muốn người dùng tự chạy scrape.py để tạo file này
+# thì hãy bỏ comment dòng dưới đây
+# *.json
